@@ -1,6 +1,3 @@
-#
-# @lc app=leetcode.cn id=21 lang=python3
-#
 # [21] 鍚堝苟涓や釜鏈夊簭閾捐〃
 #
 
@@ -16,7 +13,7 @@ class Solution:
         
 # @lc code=end
 
-改变一下吧
+锟侥憋拷一锟铰帮拷
 
-又改变一下
+锟街改憋拷一锟斤拷
 
